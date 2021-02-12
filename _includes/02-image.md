@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAnime_Girl.svg&psig=AOvVaw2cTF6PLwd_MuDXDFj2iio2&ust=1613255136622000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCh9u-x5e4CFQAAAAAdAAAAABAD)
+![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/c/c2/Anime_Girl.svg)
